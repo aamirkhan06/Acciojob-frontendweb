@@ -251,6 +251,9 @@
     height: 100%;
 }
 
+.select-course:hover{
+    border:2px solid #2f80ec !important;
+}
 @media screen and (max-width:900px) {
     .hero-left-wrapper
     {
